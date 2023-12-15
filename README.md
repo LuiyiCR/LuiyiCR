@@ -18,7 +18,9 @@ Project management methodologies and best practices.
 My transition from a call-data center background to software development.
 Anything related to HTML, CSS, JavaScript, React.JS, Python, SQL, Git, Flask, or APIs.
 📫 How to reach me:
-Connect with me on LinkedIn here or drop me an email at luiyi_salazar@hotmail.com
+
+ 🪄 LinkedIn: https://www.linkedin.com/in/luis-salazar-orozco-b783981a3/ 
+ 📭 Email: luiyi_salazar@hotmail.com
 
 😄 Pronouns:
 He/Him

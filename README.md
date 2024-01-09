@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project-Manager | Software Developer
 ------------------------------------
 
-Welcome to my GitHub profile...! 👻 I am a seasoned project manager with over 12 years of experience in call-data centers, specializing in serving US-based customers. Excitingly, I am currently on a journey to transition into the dynamic realm of software development. As I immerse myself in this new adventure, I am acquiring skills in various technologies to enhance my capabilities.
+Welcome to my GitHub profile...! 👻 I am a seasoned project manager and Software Developer with over 12 years of experience in call-data centers, specializing in serving US-based customers. Excitingly, I am currently on a journey to transition into the dynamic realm of software development. As I immerse myself in this new adventure, I am acquiring skills in various technologies to enhance my capabilities.
 
 * 🌍  I'm based in San José, Costa Rica
 * 🖥️  See my portfolio at [Coming soon...](http://a)

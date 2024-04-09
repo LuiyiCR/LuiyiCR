@@ -9,7 +9,7 @@ Welcome to my GitHub profile...! 👻 I am a seasoned project manager and Softwa
 * 🌍  I'm based in San José, Costa Rica
 * 🖥️  See my portfolio at [Coming soon...](http://a)
 * ✉️  You can contact me at [luiyi\_salazar@hotmail.com](mailto:luiyi_salazar@hotmail.com)
-* 🚀  I'm currently working on [Aníbal Studio (Beauty Salon Real World-Project](http://github.com/LuiyiCR/)
+* 🚀  I'm currently working on [Aníbal Studio (Beauty Salon Real World-Project](https://github.com/LuiyiCR/Anibal-Studio)
 * 🧠  I'm learning Firebase Authorization Implementation 
 * 🤝  I'm open to collaborating on React.JS-Python--Projects
 * ⚡  "To those who believe, everything's possible!"
